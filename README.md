@@ -10,13 +10,11 @@ Get all stored wifi passwords with this awesome python script.
 <code> python WiFucker.py </code>
 <br>
 <hr/>
- ### More About This Script:
- <br>
- This is a console based python script
- <br>
- ### Tasted On:
- <br>
- Windows OS
- <hr/>
+<h3> More About This Script: </h3>
+This is a console based python script
+<br>
+<h3> Tasted On: </h3>
+Windows OS
+<hr/>
 
 
