@@ -9,8 +9,12 @@ Get all stored wifi passwords with this awesome python script.
 
 <hr/>
  ### More About This Script:
- - This is a console based python script
+ <br>
+ This is a console based python script
+ <br>
  ### Tasted On:
- - Windows OS
+ <br>
+ Windows OS
+ <hr/>
 
 
